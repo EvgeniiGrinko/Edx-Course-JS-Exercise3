@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    background-color: lightgreen;
+    border: 12px solid violet;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;    
+}
+div {
+    background-color: thistle;
+    float: left;
+    margin: 10px;
+}
+#myFunction {
+    padding: 25px;
+    border: 5px solid green;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
